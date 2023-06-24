@@ -26,7 +26,7 @@ export const TimeLineData = [
   { year: 2019, text: "Event Organiser in Robotics club." },
   { year: 2020, text: "Graduated UG in B.E, with 87% from Anna University" },
   {
-    year: Present,
+    year: 2023,
     text: "Angular Developer with 2+yrs of industry experience.",
   },
 ];
