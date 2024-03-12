@@ -37,41 +37,41 @@ const Technologies = () => (
         <DiHtml5 size={"3rem"} />
         <ListContainer>
           <ListTitle>HTML 5</ListTitle>
-          <ListParagraph>Experience with React and Angular</ListParagraph>
+          {/* <ListParagraph>Experience with React and Angular</ListParagraph> */}
         </ListContainer>
       </ListItem>
       <ListItem>
         <DiCss3 size={"3rem"} />
         <ListContainer>
           <ListTitle>CSS 3</ListTitle>
-          <ListParagraph>Experience with C#, LINQ, ASP.NET</ListParagraph>
+          {/* <ListParagraph>Experience with C#, LINQ, ASP.NET</ListParagraph> */}
         </ListContainer>
       </ListItem>
       <ListItem>
         <DiJavascript size={"3rem"} />
         <ListContainer>
           <ListTitle>JavaScript</ListTitle>
-          <ListParagraph>
+          {/* <ListParagraph>
             Experience with ,MySql,SQL server, Postgre SQL
-          </ListParagraph>
+          </ListParagraph> */}
         </ListContainer>
       </ListItem>
       <ListItem>
         <DiAngularSimple size={"3rem"} />
         <ListContainer>
           <ListTitle>Angular</ListTitle>
-          <ListParagraph>
+          {/* <ListParagraph>
             Experience with ,MySql,SQL server, Postgre SQL
-          </ListParagraph>
+          </ListParagraph> */}
         </ListContainer>
       </ListItem>
       <ListItem>
         <SiMicrosoftazure size={"3rem"} />
         <ListContainer>
-          <ListTitle>Cloud Environment</ListTitle>
-          <ListParagraph>
+          <ListTitle>Azure</ListTitle>
+          {/* <ListParagraph>
             Experience with Microsoft Azure and it's services, AzureDevops.
-          </ListParagraph>
+          </ListParagraph> */}
         </ListContainer>
       </ListItem>
     </List>
